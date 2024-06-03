@@ -7,6 +7,6 @@ public class OhHiKafka {
     private static final Logger log = LoggerFactory.getLogger(OhHiKafka.class);
 
     public static void main(String[] args) {
-        log.info("dependency sanity check");
+        log.info("Oh lucky you, you made it to runtime.");
     }
 }
